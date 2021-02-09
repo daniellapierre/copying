@@ -1,2 +1,2 @@
 # copying
-Coalescence and Copying Processes: Geospatial Analysis of Macroscale Patterns of Ceramic Decorative Variation and Community Coalescence in Late Woodland Northern Iroquoia
+Community Coalescence and Regional Geospatial Trends of Ceramic Decorative Variation in Late Woodland Northern Iroquoia
