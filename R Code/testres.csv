@@ -1,0 +1,61 @@
+Region,Timeblock,Test,Statistic,Significance
+NY,1,ANOSIM,0.7625,0.0055994
+NY,2,ANOSIM,0.4878,0.001099
+NY,3,ANOSIM,0.5202,0.00001
+NY,4,ANOSIM,0.3149,0.00069993
+NY,5,ANOSIM,0.4024,0.00001
+NY,1,Partial Mantel Binary Dist. Group Membership,0.02332,0.51975
+NY,2,Partial Mantel Binary Dist. Group Membership,-0.2226,0.9985
+NY,3,Partial Mantel Binary Dist. Group Membership,0.05878,0.19968
+NY,4,Partial Mantel Binary Dist. Group Membership,0.1004,0.080092
+NY,5,Partial Mantel Binary Dist. Group Membership,0.06672,0.16018
+NY,1,Stratified Mantel Test,0.7716,0.1875
+NY,2,Stratified Mantel Test,0.6383,0.0090991
+NY,3,Stratified Mantel Test,0.4847,0.54915
+NY,4,Stratified Mantel Test,0.2507,0.17248
+NY,5,Stratified Mantel Test,0.3572,0.00891992
+ON,1,ANOSIM,0.0059,0.43356
+ON,2,ANOSIM,0.1433,0.0075992
+ON,3,ANOSIM,0.307,0.0021998
+ON,4,ANOSIM,0.2366,0.011699
+ON,5,ANOSIM,0.4304,0.0019998
+ON,1,Partial Mantel Binary Dist. Group Membership,-0.06773,0.89841
+ON,2,Partial Mantel Binary Dist. Group Membership,-0.08483,0.9546
+ON,3,Partial Mantel Binary Dist. Group Membership,0.02642,0.35196
+ON,4,Partial Mantel Binary Dist. Group Membership,0.01689,0.41046
+ON,5,Partial Mantel Binary Dist. Group Membership,0.2574,0.0036996
+ON,1,Stratified Mantel Test,0.1143,0.018598
+ON,2,Stratified Mantel Test,0.268,0.012099
+ON,3,Stratified Mantel Test,0.2991,0.38636
+ON,4,Stratified Mantel Test,0.235,0.24098
+ON,5,Stratified Mantel Test,0.27452,0.0597
+PG,1,AMOVA,0.054,0.00001
+PG,2,AMOVA,0.073,0.00001
+PG,3,AMOVA,0.058,0.00001
+PG,4,AMOVA,0.064,0.00001
+PG,5,AMOVA,0.066,0.00001
+PG,1,ANOSIM,0.2529,0.00001
+PG,2,ANOSIM,0.4586,0.00001
+PG,3,ANOSIM,0.5584,0.00001
+PG,4,ANOSIM,0.531,0.00001
+PG,5,ANOSIM,0.6086,0.00001
+PG,1,Partial Mantel Binary Dist. Group Membership,-0.1033,0.9984
+PG,2,Partial Mantel Binary Dist. Group Membership,-0.01377,0.69033
+PG,3,Partial Mantel Binary Dist. Group Membership,0.05585,0.012599
+PG,4,Partial Mantel Binary Dist. Group Membership,-0.01857,0.75292
+PG,5,Partial Mantel Binary Dist. Group Membership,0.02921,0.26197
+RG,1,AMOVA,0.0694,0.00001
+RG,2,AMOVA,0.06607,0.00001
+RG,3,AMOVA,0.053,0.00001
+RG,4,AMOVA,0.0533,0.00001
+RG,5,AMOVA,0.0608,0.00001
+RG,1,ANOSIM,0.511,0.00001
+RG,2,ANOSIM,0.6043,0.00001
+RG,3,ANOSIM,0.5625,0.00001
+RG,4,ANOSIM,0.4845,0.00001
+RG,5,ANOSIM,0.447,0.00001
+RG,1,Partial Mantel Binary Dist. Group Membership,0.1612,0.007792
+RG,2,Partial Mantel Binary Dist. Group Membership,0.267,0.0001
+RG,3,Partial Mantel Binary Dist. Group Membership,0.1822,0.00001
+RG,4,Partial Mantel Binary Dist. Group Membership,-0.03,0.75292
+RG,5,Partial Mantel Binary Dist. Group Membership,-0.1298,0.9957
